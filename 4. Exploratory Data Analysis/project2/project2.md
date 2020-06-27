@@ -13,7 +13,7 @@ SCC <- data.table::as.data.table(x = readRDS(file = "Source_Classification_Code.
 NEI <- data.table::as.data.table(x = readRDS(file = "summarySCC_PM25.rds"))
 ```
 
-Question 1 ([plot1.R](https://github.com/mGalarnyk/datasciencecoursera/blob/master/4_Exploratory_Data_Analysis/project2/plot1.R))
+Question 1 ([plot1.R](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/4.%20Exploratory%20Data%20Analysis/project2/plot1.png))
 ----------
 Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? 
 Using the base plotting system, make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
@@ -34,9 +34,9 @@ barplot(totalNEI[, Emissions]
 dev.off()
 ```
 
-<img src="https://github.com/mGalarnyk/datasciencecoursera/blob/master/4_Exploratory_Data_Analysis/project2/plot1.png" alt="Exploratory Data Analysis Project 2 question 1" >
+<img src="https://github.com/rohan27hadvani/datasciencecoursera/blob/master/4.%20Exploratory%20Data%20Analysis/project2/plot1.png" alt="Exploratory Data Analysis Project 2 question 1" >
 
-Question 2 ([plot2.R](https://github.com/mGalarnyk/datasciencecoursera/blob/master/4_Exploratory_Data_Analysis/project2/plot2.R))
+Question 2 ([plot2.R](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/4.%20Exploratory%20Data%20Analysis/project2/plot2.R))
 ----------
 Have total emissions from PM2.5 decreased in the Baltimore City, Maryland (𝚏𝚒𝚙𝚜 == "𝟸𝟺𝟻𝟷𝟶") from 1999 to 2008? Use the base plotting system to make a plot answering this question.
 
@@ -55,9 +55,9 @@ barplot(totalNEI[, Emissions]
 
 dev.off()
 ```
-<img src="https://github.com/mGalarnyk/datasciencecoursera/blob/master/4_Exploratory_Data_Analysis/project2/plot2.png" alt="Exploratory Data Analysis Project 2 question 2" >
+<img src="https://github.com/rohan27hadvani/datasciencecoursera/blob/master/4.%20Exploratory%20Data%20Analysis/project2/plot2.png" alt="Exploratory Data Analysis Project 2 question 2" >
 
-Question 3 ([plot3.R](https://github.com/mGalarnyk/datasciencecoursera/blob/master/4_Exploratory_Data_Analysis/project2/plot3.R))
+Question 3 ([plot3.R](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/4.%20Exploratory%20Data%20Analysis/project2/plot3.R))
 ----------
 Of the four types of sources indicated by the 𝚝𝚢𝚙𝚎 (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City? 
 Which have seen increases in emissions from 1999–2008? Use the ggplot2 plotting system to make a plot answer this question.
@@ -77,9 +77,9 @@ ggplot(baltimoreNEI,aes(factor(year),Emissions,fill=type)) +
 dev.off()
 ```
 
-<img src="https://github.com/mGalarnyk/datasciencecoursera/blob/master/4_Exploratory_Data_Analysis/project2/plot3.png" alt="Exploratory Data Analysis Project 2 question 3" >
+<img src="https://github.com/rohan27hadvani/datasciencecoursera/blob/master/4.%20Exploratory%20Data%20Analysis/project2/plot3.png" alt="Exploratory Data Analysis Project 2 question 3" >
 
-Question 4 ([plot4.R](https://github.com/mGalarnyk/datasciencecoursera/blob/master/4_Exploratory_Data_Analysis/project2/plot4.R))
+Question 4 ([plot4.R](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/4.%20Exploratory%20Data%20Analysis/project2/plot4.R))
 ----------
 Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?
 
@@ -100,9 +100,9 @@ ggplot(combustionNEI,aes(x = factor(year),y = Emissions/10^5)) +
 dev.off()
 ```
 
-<img src="https://github.com/mGalarnyk/datasciencecoursera/blob/master/4_Exploratory_Data_Analysis/project2/plot4.png" alt="Exploratory Data Analysis Project 2 question 4" >
+<img src="https://github.com/rohan27hadvani/datasciencecoursera/blob/master/4.%20Exploratory%20Data%20Analysis/project2/plot4.png" alt="Exploratory Data Analysis Project 2 question 4" >
 
-Question 5 ([plot5.R](https://github.com/mGalarnyk/datasciencecoursera/blob/master/4_Exploratory_Data_Analysis/project2/plot5.R))
+Question 5 ([plot5.R](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/4.%20Exploratory%20Data%20Analysis/project2/plot5.R))
 ----------
 How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
 
@@ -125,9 +125,9 @@ ggplot(baltimoreVehiclesNEI,aes(factor(year),Emissions)) +
 dev.off()
 ```
 
-<img src="https://github.com/mGalarnyk/datasciencecoursera/blob/master/4_Exploratory_Data_Analysis/project2/plot5.png" alt="Exploratory Data Analysis Project 2 question 5" >
+<img src="https://github.com/rohan27hadvani/datasciencecoursera/blob/master/4.%20Exploratory%20Data%20Analysis/project2/plot5.png" alt="Exploratory Data Analysis Project 2 question 5" >
 
-Question 6 ([plot6.R](https://github.com/mGalarnyk/datasciencecoursera/blob/master/4_Exploratory_Data_Analysis/project2/plot6.R))
+Question 6 ([plot6.R](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/4.%20Exploratory%20Data%20Analysis/project2/plot6.R))
 ----------
 Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (𝚏𝚒𝚙𝚜 == "𝟶𝟼𝟶𝟹𝟽"). Which city has seen greater changes over time in motor vehicle emissions?
 
@@ -158,4 +158,4 @@ ggplot(bothNEI, aes(x=factor(year), y=Emissions, fill=city)) +
 dev.off()
 ```
 
-<img src="https://github.com/mGalarnyk/datasciencecoursera/blob/master/4_Exploratory_Data_Analysis/project2/plot6.png" alt="Exploratory Data Analysis Project 2 question 6" >
+<img src="https://github.com/rohan27hadvani/datasciencecoursera/blob/master/4.%20Exploratory%20Data%20Analysis/project2/plot6.png" alt="Exploratory Data Analysis Project 2 question 6" >
