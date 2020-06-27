@@ -11,5 +11,5 @@ Project # | Link
 ## Quizzes
 Quiz # | Link 
 --- | --- 
-1 | [Quiz](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/4_Exploratory_Data_Analysis/quizzes/quiz1.md)
-2 | [Quiz](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/4_Exploratory_Data_Analysis/quizzes/quiz2.md)
+1 | [Quiz](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/4.%20Exploratory%20Data%20Analysis/quizzes/quiz1.md)
+2 | [Quiz](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/4.%20Exploratory%20Data%20Analysis/quizzes/quiz2.md)
