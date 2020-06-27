@@ -3,7 +3,7 @@
 ## Projects 
 Project # | Link 
 --- | --- 
-1 |  [Getting and Cleaning Data Project](https://github.com/rohan27hadvani/datasciencecoursera/tree/master/3_Getting_and_Cleaning_Data/projects)
+1 |  [Getting and Cleaning Data Project](https://github.com/rohan27hadvani/datasciencecoursera/tree/master/3.%20Getting%20and%20Cleaning%20Data/projects)
 
 ## Quizzes
 Quiz # | Link 
