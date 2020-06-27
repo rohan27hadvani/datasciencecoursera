@@ -10,5 +10,5 @@ Project # | Markdown | R Markdown
 ## Quizzes
 Quiz # | Link 
 --- | --- 
-2 | [Quiz](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/5_Reproducible_Research/quizzes/quiz2.md)
 1 | [Quiz](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/5_Reproducible_Research/quizzes/quiz1.md)
+2 | [Quiz](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/5_Reproducible_Research/quizzes/quiz2.md)
