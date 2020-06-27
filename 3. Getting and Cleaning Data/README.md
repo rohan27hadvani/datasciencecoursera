@@ -8,7 +8,7 @@ Project # | Link
 ## Quizzes
 Quiz # | Link 
 --- | --- 
-1 | [Quiz 1](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/quizzes/quiz1.md)
-2 | [Quiz 2](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/quizzes/quiz2.md)
-3 | [Quiz 3](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/quizzes/quiz3.md)
-4 | [Quiz 4](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/quizzes/quiz4.md)
+1 | [Quiz 1](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/3.%20Getting%20and%20Cleaning%20Data/quizzes/quiz1.md)
+2 | [Quiz 2](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/3.%20Getting%20and%20Cleaning%20Data/quizzes/quiz2.md)
+3 | [Quiz 3](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/3.%20Getting%20and%20Cleaning%20Data/quizzes/quiz3.md)
+4 | [Quiz 4](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/3.%20Getting%20and%20Cleaning%20Data/quizzes/quiz4.md)
