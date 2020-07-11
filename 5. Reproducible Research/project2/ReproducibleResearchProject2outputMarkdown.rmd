@@ -1,7 +1,7 @@
 ---
 title: "Analysis of the Adverse Health and Economic Impacts of US Storms"
-author: "Michael Galarnyk"
-date: "5/10/2017"
+author: "Rohan Hadvani"
+date: "27/06/2020"
 output: html_document
 ---
 
