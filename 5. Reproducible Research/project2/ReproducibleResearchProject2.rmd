@@ -5,7 +5,7 @@ date: "27/06/2020"
 output: html_document
 ---
 
-Github repo for the Course: [Reproducible Research](https://github.com/mGalarnyk/datasciencecoursera/tree/master/5_Reproducible_Research)
+Github repo for the Course: [Reproducible Research](https://github.com/rohan27hadvani/datasciencecoursera/tree/master/5.%20Reproducible%20Research)
 </br>
 Github repo for Rest of Specialization: [Data Science Coursera](https://github.com/rohan27hadvani/datasciencecoursera)
 
