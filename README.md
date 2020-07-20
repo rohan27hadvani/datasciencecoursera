@@ -5,7 +5,7 @@ Just started on Course 6 Statistical Inference (as of 5/12/2017). All the course
 
 ## Course 
 Course Number | Course | Link to Repo |
---- | --- | --- | ---
+--- | --- | --- |
 1 |  The Data Scientist's Toolbox |  [Course Repo] Coming Soon |
 2 |  R Programming |  [Course Repo] Coming Soon | 
 3 |  Getting and Cleaning Data |  [Course Repo](https://github.com/rohan27hadvani/datasciencecoursera/tree/master/3.%20Getting%20and%20Cleaning%20Data) | 
