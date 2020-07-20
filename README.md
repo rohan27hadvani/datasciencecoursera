@@ -1,7 +1,8 @@
 # Data Science Specialization | John Hopkins Coursera
-Author: Michael Galarnyk <br />
+Author: Rohan Hadvani <br />
 
-Just started on Course 6 Statistical Inference (as of 5/12/2017). All the coursework is aggregated into one repo.
+Started on 1/6/2020. 
+All the coursework is aggregated into one repo.
 
 ## Course 
 Course Number | Course | Link to Repo |
