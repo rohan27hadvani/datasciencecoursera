@@ -1,5 +1,5 @@
 # Statistical Inference
-Author: Michael Galarnyk <br />
+Author: Rohan Hadvani <br />
 
 ## Project 
 Markdown | R Markdown
