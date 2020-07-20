@@ -1,5 +1,5 @@
 # Data Science Specialization | John Hopkins Coursera
-Author: Rohan Hadvani <br />
+## Author: Rohan Hadvani <br />
 
 Started on 1/6/2020. 
 All the coursework is aggregated into one repo.
