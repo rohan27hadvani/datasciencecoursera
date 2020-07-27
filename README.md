@@ -22,4 +22,4 @@ Course Number | Course | Link to Repo |
 ## Contributors
 Github Username | Profile Page | 
 --- | --- |
-Rohan Hadvani | [Github Profile](https://github.com/Rohan27Hadvani) |
+rohan27hadvani | [Github Profile](https://github.com/Rohan27Hadvani) |
