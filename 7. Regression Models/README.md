@@ -7,9 +7,3 @@ Quiz # | Link
 2 | [Quiz](https://github.com/mGalarnyk/datasciencecoursera/blob/master/7_Regression_Models/quizzes/quiz2.md)
 1 | [Quiz](https://github.com/mGalarnyk/datasciencecoursera/blob/master/7_Regression_Models/quizzes/quiz1.md)
 
-## Contributors
-FirstName | LastName | Email
---- | --- | ---
-Michael |  Galarnyk |  <mgalarny@gmail.com>
-Submit |  Pull Request | <youremailhere@gmail.com>
-
