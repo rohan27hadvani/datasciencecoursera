@@ -13,7 +13,7 @@ Course Number | Course | Link to Repo |
 4 |  Exploratory Data Analysis |  [Course Repo](https://github.com/rohan27hadvani/datasciencecoursera/tree/master/4.%20Exploratory%20Data%20Analysis) | 
 5 |  Reproducible Research |  [Course Repo](https://github.com/rohan27hadvani/datasciencecoursera/tree/master/5.%20Reproducible%20Research) | 
 6 |  Statistical Inference |  [Course Repo](https://github.com/rohan27hadvani/datasciencecoursera/tree/master/6.%20Statistical%20Inference) |
-7 |  Regression Models |  Coming Soon |
+7 |  Regression Models | [Course Repo](https://github.com/rohan27hadvani/datasciencecoursera/tree/master/7.%20Regression%20Models)  |
 8 |  Practical Machine Learning |  Coming Soon |
 9 |  Developing Data Products |  Coming Soon |
 10 |  Data Science Capstone |  Coming Soon |
