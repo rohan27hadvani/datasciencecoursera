@@ -19,8 +19,7 @@ outcome[, lapply(.SD
                  , col="lightblue")
         , .SDcols = (11)]
 ```
-![](https://github.com/mGalarnyk/datasciencecoursera/blob/master/2_R_Programming/projects/Hospital_30_day_death.png)
-###  Part 2 Finding the best hospital in a state ([best.R](https://github.com/mGalarnyk/datasciencecoursera/blob/master/2_R_Programming/projects/best.R))
+###  Part 2 Finding the best hospital in a state (best.R)
 ```R
 best <- function(state, outcome) {
   
@@ -70,7 +69,7 @@ best <- function(state, outcome) {
 
 }
 ```
-###  Part 3 Ranking hospitals by outcome in a state ([rankhospital.R](https://github.com/mGalarnyk/datasciencecoursera/blob/master/2_R_Programming/projects/rankhospital.R))
+###  Part 3 Ranking hospitals by outcome in a state (rankhospital.R)
 ```R
 rankhospital <- function(state, outcome, num = "best") {
   
@@ -130,7 +129,7 @@ rankhospital <- function(state, outcome, num = "best") {
 
 }
 ```
-###  Part 4 Ranking hospitals in all states ([rankall.R](https://github.com/mGalarnyk/datasciencecoursera/blob/master/2_R_Programming/projects/rankall.R))
+###  Part 4 Ranking hospitals in all states (rankall.R)
 ```R
 rankall <- function(outcome, num = "best") {
   
