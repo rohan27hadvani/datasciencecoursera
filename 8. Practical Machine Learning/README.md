@@ -10,4 +10,4 @@ Quiz # | Link
 4 | [Quiz](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/7.%20Regression%20Models/quizzes/quiz4.md)
 
 ## Project 
-[Project]() 
+[Project](https://github.com/rohan27hadvani/datasciencecoursera/blob/master/8.%20Practical%20Machine%20Learning/Project%20Practical%20Machine%20Learning.docx) 
