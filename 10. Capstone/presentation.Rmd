@@ -1,7 +1,7 @@
 ---
 title: "Next Word Prediction App"
-author: "Amber Wang"
-date: "3/31/2018"
+author: "Rohan Hadvani"
+date: "19/08/2020"
 output: ioslides_presentation
 ---
 
@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = FALSE)
     - To improve efficiency, word pairs that appear less than 5 times in the corpus were removed
 
 ## Results
-  - The data analysis and model building writeups can be found on [GitHub](https://github.com/wamber-aww/coursera-data-science/tree/gh-pages/Course10_Capstone)
+  - The data analysis and model building writeups can be found on [GitHub](https://github.com/rohan27hadvani/datasciencecoursera)
   - The Shiny app for prediction can be found [here](https://wamber.shinyapps.io/wordPred/)
   - The app takes in the following inputs:
     1. query word/phrase that the user inputs
